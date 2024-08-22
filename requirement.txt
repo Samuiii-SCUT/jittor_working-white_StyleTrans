@@ -1,0 +1,7 @@
+./jittor
+./jtorch
+./diffusers_jittor
+./transformers_jittor
+accelerate==0.27.2
+peft==0.10.0
+einops

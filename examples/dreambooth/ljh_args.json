@@ -1,0 +1,4165 @@
+{
+    "00": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "00",
+            "inf_obj": "Dog",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "apple",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "00",
+            "inf_obj": "Statue",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "apple",
+            "seed": 2
+        }
+    ],
+    "01": [],
+    "02": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "02",
+            "inf_obj": "Statue",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "monkey",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "02",
+            "inf_obj": "Ball",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "monkey",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "02",
+            "inf_obj": "Eagle",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "duck",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "02",
+            "inf_obj": "Blanket",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cow",
+            "seed": 2
+        }
+    ],
+    "03": [
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "03",
+            "inf_obj": "Bread"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "03",
+            "inf_obj": "Port",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "full_moon",
+            "seed": 2
+        }
+    ],
+    "04": [
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Peacock"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Volcano"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Pineapple"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Computer"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "04",
+            "inf_obj": "Chocolate",
+            "model_version": "B_v2",
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    4
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Ship"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Shelf"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Tulip"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Dress"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Coat"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "04",
+            "inf_obj": "Panda",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "airplane",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Tomato"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Bag"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Duck"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Book"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "04",
+            "inf_obj": "Gate",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dove",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "04",
+            "inf_obj": "Lamp"
+        }
+    ],
+    "05": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "05",
+            "inf_obj": "Zoo",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "parrot",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "05",
+            "inf_obj": "Octopus",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "parrot",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "05",
+            "inf_obj": "Ocean",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "map",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "05",
+            "inf_obj": "Cup",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "map",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "05",
+            "inf_obj": "Rabbit",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "parrot",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "05",
+            "inf_obj": "Bear",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "parrot",
+            "seed": 2
+        }
+    ],
+    "06": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "06",
+            "inf_obj": "Snow",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "mug",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "06",
+            "inf_obj": "House",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "tulip",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "06",
+            "inf_obj": "Ice cream"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "06",
+            "inf_obj": "Onion"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "06",
+            "inf_obj": "Coffee",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "mug",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "06",
+            "inf_obj": "Stadium"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "06",
+            "inf_obj": "Barn"
+        }
+    ],
+    "07": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "07",
+            "inf_obj": "Garage",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Cherry_blossom",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "07",
+            "inf_obj": "Pool",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Cherry_blossom",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "07",
+            "inf_obj": "Sushi",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Cherry_blossom",
+            "seed": 2
+        }
+    ],
+    "08": [
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "08",
+            "inf_obj": "Computer"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "08",
+            "inf_obj": "Windmill",
+            "model_version": "B_v1",
+            "content_activate_layer_indices": [
+                [
+                    30,
+                    32
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "08",
+            "inf_obj": "Cow",
+            "model_version": "B_v1",
+            "content_activate_layer_indices": [
+                [
+                    30,
+                    32
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Key",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "fish",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Swan",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Bus",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Desk",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "fish",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "08",
+            "inf_obj": "Pencil"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Cheese",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Chocolate",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "television",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Tiger",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "fish",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Tulip",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Banana",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Medicine",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "television",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Milk",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "television",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Plate",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "television",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Bottle",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "08",
+            "inf_obj": "Dolphin",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "television",
+            "seed": 1
+        }
+    ],
+    "09": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "09",
+            "inf_obj": "Cherry",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bird",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "09",
+            "inf_obj": "Phone",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bird",
+            "seed": 2
+        }
+    ],
+    "10": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "10",
+            "inf_obj": "Building",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "chess_set",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "10",
+            "inf_obj": "Desert"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "10",
+            "inf_obj": "Pants",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "chess_set",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "10",
+            "inf_obj": "Pool",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "chess_set",
+            "seed": 1
+        }
+    ],
+    "11": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "11",
+            "inf_obj": "Swan",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "fish",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "11",
+            "inf_obj": "Smoke",
+            "model_version": "B_v1",
+            "content_activate_layer_indices": [
+                [
+                    30,
+                    32
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "11",
+            "inf_obj": "Sunglasses",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "house",
+            "seed": 2
+        }
+    ],
+    "12": [],
+    "13": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Cow",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cat",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Dress",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bamboo",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Strawberry",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cat",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Octopus",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "house",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Juice",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "house",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Rose",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bamboo",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Ship",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "house",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Star",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cat",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "13",
+            "inf_obj": "Park"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Zoo",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "house",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Seed",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cat",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Elephant",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bamboo",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Umbrella",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cat",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Shoes",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bamboo",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Chair",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bamboo",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "13",
+            "inf_obj": "Canyon",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "house",
+            "seed": 2
+        }
+    ],
+    "14": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "14",
+            "inf_obj": "Knife",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "galloping_horse",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "14",
+            "inf_obj": "Waterfall"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "14",
+            "inf_obj": "Park"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "14",
+            "inf_obj": "Hat",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "galloping_horse",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "14",
+            "inf_obj": "Backpack",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "galloping_horse",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "14",
+            "inf_obj": "Island"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "14",
+            "inf_obj": "Zebra",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "galloping_horse",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "14",
+            "inf_obj": "Watch",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "galloping_horse",
+            "seed": 2
+        }
+    ],
+    "15": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "15",
+            "inf_obj": "Mirror",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "golfer",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "15",
+            "inf_obj": "Mango"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "15",
+            "inf_obj": "Bicycle",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "golfer",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "15",
+            "inf_obj": "Watch",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "astronaut",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "15",
+            "inf_obj": "Zebra",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "golfer",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "15",
+            "inf_obj": "Dress",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "golfer",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "15",
+            "inf_obj": "Fish",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "golfer",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "15",
+            "inf_obj": "River"
+        }
+    ],
+    "16": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "16",
+            "inf_obj": "Falcon",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "16",
+            "inf_obj": "Gate",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "16",
+            "inf_obj": "Towel",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "16",
+            "inf_obj": "Suitcase",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "16",
+            "inf_obj": "Wolf",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bottle",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "16",
+            "inf_obj": "Bed",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        }
+    ],
+    "17": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Pool",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Glacier",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Mountain",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "flowing_river",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Star",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "majestic_waterfall",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Bottle",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "majestic_waterfall",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Panda",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Glacier",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Port",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Glacier",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Glasses",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "majestic_waterfall",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Volcano",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "majestic_waterfall",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Bed",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "flowing_river",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "17",
+            "inf_obj": "Valley",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "flowing_river",
+            "seed": 1
+        }
+    ],
+    "18": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "Tower",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "frog",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "Owl",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "squirrel",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "Fox",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "squirrel",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "Plate",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cow",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "Butterfly",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cow",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "House",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cow",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "Waterfall",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "frog",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "18",
+            "inf_obj": "Windmill",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "frog",
+            "seed": 2
+        }
+    ],
+    "19": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "19",
+            "inf_obj": "Cherry",
+            "model_version": "B_v2",
+            "content_activate_layer_indices": [
+                [
+                    24,
+                    32
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.25,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "19",
+            "inf_obj": "Island"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "19",
+            "inf_obj": "Peacock",
+            "model_version": "B_v2",
+            "content_activate_layer_indices": [
+                [
+                    24,
+                    32
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "scale_1": 0.25,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "19",
+            "inf_obj": "Lettuce",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Lion",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "19",
+            "inf_obj": "Fork"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "19",
+            "inf_obj": "Fish"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "19",
+            "inf_obj": "Sand",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Lion",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "19",
+            "inf_obj": "Lighthouse",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Lion",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "19",
+            "inf_obj": "Ship"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "19",
+            "inf_obj": "Gallery",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Lion",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "19",
+            "inf_obj": "Umbrella",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dog",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "19",
+            "inf_obj": "Spoon"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "19",
+            "inf_obj": "Cup"
+        }
+    ],
+    "20": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Plane",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dragon",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Opera",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "phoenix",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Pants",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "wizard",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Grass",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "wizard",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Rose",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "wizard",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Shoes",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dragon",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Computer",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dragon",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Watch",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "phoenix",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Volcano",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "phoenix",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Fox",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dragon",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "20",
+            "inf_obj": "Plate"
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "20",
+            "inf_obj": "Lavender"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "20",
+            "inf_obj": "Book",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "dragon",
+            "seed": 1
+        }
+    ],
+    "21": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "21",
+            "inf_obj": "Airport",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "Dolphin",
+            "seed": 1
+        }
+    ],
+    "22": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "House",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "vase",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Notebook",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "drum_set",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Eagle",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "vase",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Market",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "vase",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Lobster",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "blender",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Waterfall",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "vase",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Leaf",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "vase",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Key",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "blender",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Umbrella",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "drum_set",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Train",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "vase",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Plane",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "drum_set",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "22",
+            "inf_obj": "Fire",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "vase",
+            "seed": 2
+        }
+    ],
+    "23": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "23",
+            "inf_obj": "Seed",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "robot",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "23",
+            "inf_obj": "Smoke",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "robot",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "23",
+            "inf_obj": "Chocolate"
+        }
+    ],
+    "24": [
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "24",
+            "inf_obj": "Swan"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "24",
+            "inf_obj": "Tree",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "cactus_made",
+            "seed": 2
+        }
+    ],
+    "25": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "25",
+            "inf_obj": "Ball",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "pixel_art_cat",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "25",
+            "inf_obj": "Eagle",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bitmapped_flower",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "25",
+            "inf_obj": "Octopus",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bitmapped_flower",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "25",
+            "inf_obj": "Sunglasses",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bitmapped_flower",
+            "seed": 1
+        }
+    ],
+    "26": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "26",
+            "inf_obj": "Bag",
+            "model_version": "B_v2",
+            "content_activate_layer_indices": [
+                [
+                    12,
+                    18
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v2",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "26",
+            "inf_obj": "Bracelet"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "26",
+            "inf_obj": "Table",
+            "model_version": "B_v2",
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    4
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "26",
+            "inf_obj": "Ant",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "chicken",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "26",
+            "inf_obj": "Beach",
+            "model_version": "B_v2",
+            "content_activate_layer_indices": [
+                [
+                    30,
+                    32
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "task_id": "26",
+            "inf_obj": "Fork",
+            "model_version": "B_v2",
+            "content_activate_layer_indices": [
+                [
+                    30,
+                    32
+                ]
+            ],
+            "activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0.95,
+            "scale_2": 2.0
+        },
+        {
+            "model_step": 1200,
+            "model_version": "B_v1",
+            "scale_1": 0.75,
+            "scale_2": 1.5,
+            "using_lora": true,
+            "activate_layer_indices": [
+                [
+                    20,
+                    32
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "task_id": "26",
+            "inf_obj": "Milk"
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "26",
+            "inf_obj": "Glasses",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "chicken",
+            "seed": 1
+        }
+    ],
+    "27": [
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "27",
+            "inf_obj": "Table",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bottle",
+            "seed": 2
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "27",
+            "inf_obj": "Dolphin",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "car",
+            "seed": 1
+        },
+        {
+            "model_step": 1200,
+            "using_lora": true,
+            "model_version": "B_v1",
+            "task_id": "27",
+            "inf_obj": "Towel",
+            "activate_layer_indices": [
+                [
+                    18,
+                    24
+                ]
+            ],
+            "content_activate_layer_indices": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "scale_1": 0,
+            "scale_2": 0,
+            "ref_obj": "bottle",
+            "seed": 2
+        }
+    ]
+}
